@@ -1,6 +1,6 @@
 # Table of contents
 
-* [HackTricks Cloud](README.md)
+* [Cloud NOTES](README.md)
   * [SUMMARY](src/SUMMARY.md)
   * [pentesting-ci-cd](src/pentesting-ci-cd/README.md)
     * [Ansible Tower / AWX / Automation controller Security](src/pentesting-ci-cd/ansible-tower-awx-automation-controller-security.md)
